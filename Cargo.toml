@@ -1,0 +1,10 @@
+[package]
+
+name = "lithium"
+version = "0.0.1"
+authors = ["Jonathan Reem <jonathan.reem@gmail.com>"]
+repository = "https://github.com/reem/lithium.git"
+description = "something fast this way comes"
+readme = "README.md"
+license = "MIT"
+
